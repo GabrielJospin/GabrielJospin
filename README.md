@@ -7,7 +7,7 @@
 - 🥅 2021 Goals: Start work at Sintese Jr. and participate a University research
 - ⚡ Fun fact: 
   - I love play games in my free time
-  - I teach physics in a popular prep school
+  - I teach physics at a popular prep school
 
 ### Connect with me:
 
