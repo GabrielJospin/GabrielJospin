@@ -2,7 +2,7 @@
 
 ### I'm a student from EACH-USP
 
-- 🔭 I'm currently studying in "Universidade de São Paulo (USP)"
+- 🔭 I'm currently studying at "Universidade de São Paulo (USP)"
 - 🌱 I'm currently learning about Data Science and Machine Learning
 - 🥅 2021 Goals: Start work at Sintese Jr. and participate a research in my university
 - ⚡ Fun fact: 
