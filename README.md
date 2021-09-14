@@ -1,6 +1,6 @@
-### Hello there. I'm Gabriel Jospin - 👋
+## Hello there. I'm Gabriel Jospin - 👋
 
-## I'm a student from EACH-USP
+### I'm a student from EACH-USP
 
 - 🔭 I'm currently studying in "Universidade de São Paulo (USP)"
 - 🌱 I'm currently learning about Data Science and Machine Learning
