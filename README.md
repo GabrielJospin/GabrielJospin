@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently studying at "Universidade de São Paulo (USP)"
 - 🌱 I'm currently learning about Data Science and Machine Learning
-- 🥅 2021 Goals: Start work at Sintese Jr. and participate an University research
+- 🥅 2021 Goals: Start work at Sintese Jr. and participate a University research
 - ⚡ Fun fact: 
   - I love play games in my free time
   - I teach physics in a popular prep school
