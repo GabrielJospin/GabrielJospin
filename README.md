@@ -37,7 +37,7 @@
 ---
 
 
-[instagram]: https://instagram.com/gabriel_jospin
+[instagram]: https://instagram.com/frodo_jospin
 [linkedin]: https://www.linkedin.com/in/gabrielmedeirosjospin/
 [JetBrains]: https://www.jetbrains.com
 [Java]: https://www.java.com/pt-BR/
