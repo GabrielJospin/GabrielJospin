@@ -14,7 +14,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" />][instagram]
 
-<br />
+<br/>
 
 ### Languages and Tools:
 
@@ -25,8 +25,8 @@
 [<img align="left" alt="Git" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />][Git]
 [<img align="left" alt="GitHub" width="30px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />][GitHub]
 
-<br />
-<br />
+<br/>
+<br/>
 
 ### Github Data:
 <img alt="github status" src="https://github-readme-stats.vercel.app/api?username=GabrielJospin&theme=monokai&show_icons=true&hide_border=true">
